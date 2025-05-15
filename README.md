@@ -27,7 +27,7 @@ To view the project locally, you can either open the project files in your code 
 
 Please refer to `mockup.jpg` in the repository.
 
-- [x] Add proper `meta` tag for a responsive site to `index.html`
+- [] Add proper `meta` tag for a responsive site to `index.html`
 - [x] Add styles.css with the proper `link` tag.
 - [x] Best efforts to convert HTML (divs) to semantic HTML.
 - [x] Create a 2 column layout using `grid` or `flexbox` for the content using the existing media query in `styles.css`.
